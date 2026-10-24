@@ -1,4 +1,3 @@
-import React from 'react';
 import styled from '@emotion/styled';
 import primitiveicon from '../img/punkyicon.svg';
 //import n2bicon from '../img/n2b-pencil.svg';

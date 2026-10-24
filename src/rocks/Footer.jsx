@@ -1,5 +1,3 @@
-import React from 'react';
-
 import styled from '@emotion/styled'
 import primitivetext from '../img/primitive.svg';
 
@@ -8,7 +6,7 @@ const Footer = () => {
   return (
     <StyledFooter>
 
-      <p>~ <a href="https://primitivedigital.uk" title="Website crafted by Primitive Digital">primitive digital</a> &amp; <a href="https://primitivehosting.uk" title="Wordpress, Linux and Windows Hosting">primitive hosting</a> | it's all about sme ~</p>
+      <p>~ <a href="https://primitivedigital.uk" title="Website crafted by Primitive Digital">primitive digital</a> &amp; <a href="https://primitivehosting.uk" title="Wordpress, Linux and Windows Hosting">primitive hosting</a> | it&apos;s all about sme ~</p>
       
       <Brand>
         <a href="https://primitivedigital.uk" title="Website crafted by Primitive Digital">

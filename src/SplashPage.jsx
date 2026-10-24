@@ -1,10 +1,10 @@
-import React, { useState, useRef } from 'react';
+import { useState, useRef } from 'react';
 import styled from '@emotion/styled';
-import Footer from './rocks/Footer.js';
-import Header from './rocks/Header.js';
-import Profiles from './rocks/Profiles.js';
+import Footer from './rocks/Footer.jsx';
+import Header from './rocks/Header.jsx';
+import Profiles from './rocks/Profiles.jsx';
 
-import FOEButton from './rocks/FOEButton.js';
+import FOEButton from './rocks/FOEButton.jsx';
 
 import settings from './settings';
 import primitiveicon from './img/punkyicon.svg';
